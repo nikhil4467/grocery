@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello my n
+=======
+hello my name is gupta
+>>>>>>> 35a03d98814a82ea432827f76fb3e627b971016d
